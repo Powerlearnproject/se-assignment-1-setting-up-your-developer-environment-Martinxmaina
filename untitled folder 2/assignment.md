@@ -57,6 +57,14 @@ git commit -m "Initial commit"
 3.	Run the installer and ensure you check the option to add Python to your PATH.
 4.	Verify the installation:
 
+## Database Configuration
+## MySQL
+Download MySQL Installer
+## Installation Steps:
+Run the MySQL Installer.
+Followed  the installation wizard to install MySQL server and MySQL Workbench.
+
+
 
 ## Challenges Faced
 1.	Installing Git: Encountered issues with the PATH variable not being set correctly.
